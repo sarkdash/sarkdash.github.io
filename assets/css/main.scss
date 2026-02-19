@@ -8,23 +8,16 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'contrast' }}"; // skin
 @import "minimal-mistakes"; // main partials
 /* Only for About page */
-.about-page {
-  p {
-    font-size: 18px;   /* normal text */
-  }
-
-  h2 {
-    font-size: 28px;   /* section headers */
-  }
-
-  li {
-    font-size: 18px;   /* bullet points */
-  }
+.about-page {p {font-size: 18px;   /* normal text */}
+            h2 {font-size: 28px;   /* section headers */}
+            li {font-size: 18px;   /* bullet points */}
 }
 
 /* Underline h3 headings only on Gallery page */
-.page-gallery h3 {
-  
-  border-bottom: 2px solid #8B0000; /* underline */
-  display: inline-block;         /* underline only as wide as text */  
+.page-gallery h3 {border-bottom: 2px solid #8B0000; /* underline */
+                  display: inline-block;         /* underline only as wide as text */  
+}
+
+/* Shrink hero/banner title on homepage */
+.hero-title {font-size: 36px !important; /* adjust as needed */
 }
