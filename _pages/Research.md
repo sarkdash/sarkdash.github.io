@@ -5,31 +5,14 @@ permalink: /research/
 author_profile: true
 ---
 
-<main id="main">
+<div>
+Using drone thermal imagery, I monitor canopy temperature dynamics in almond
+and grapevine orchards. The objective is to detect stomatal regulation thresholds
+under rising atmospheric demand.
 
-    <!-- ======= Services Section ======= -->
-    <section id="services" class="services">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Research & Experimental work</h2>
-          <p class="left-align">I have extensive experience in researching Atmospheric Volatile Organic Compounds (BVOCs) spanning from my Ph.D. studies to my current endeavors. 
-            Throughout my academic and professional journey, I have focused on investigating BVOCs across diverse terrestrial and oceanic regions. Collaborating with esteemed 
-            colleague, I have contributed to pioneering research in this field. During my Ph.D. thesis and post-doctoral periods at PRL, I have worked on new and challenging 
-            research projects to understand the emission and atmospheric processes of volatile organic compounds (VOCs) over South Asia. I also have significant experience 
-            in instrumentation, deployment, and field and laboratory experiments. In PRL, I have been using state-of-art and novel instruments such as high mass- and 
-            time-resolution proton transfer reaction-time of flight-mass spectrometer (PTR-ToF-MS), thermal desorption-gas chromatography-flame ionization detector 
-            (TD-GC-FID), and C<sub>2</sub>H<sub>6</sub>  and C<sub>5</sub>H<sub>16</sub> VOCs analyzers to measure numerous VOCs in different environments over the land 
-            and ocean. </p>
-            <!-- <a href="https://github.com/nidhispace/openfoam_tutorial" target="_blank"
-              style="display:inline-block; padding:10px 16px; margin:6px; background:#24292e; color:white; border-radius:6px; text-decoration:none; font-weight:600;">
-              OPENFOAM Project → GitHub
-            </a>
-
-            <a href="https://github.com/nidhispace/ChemBox-Lab" target="_blank"
-              style="display:inline-block; padding:10px 16px; margin:6px; background:#24292e; color:white; border-radius:6px; text-decoration:none; font-weight:600;">
-              CHEMBOX Lab → GitHub
-            </a>    -->
+The work integrates eddy covariance flux observations with plant hydraulic
+responses to understand ecosystem carbon stability during drought transitions.
+</div>
 
 ## Understanding Earth's Critical Zone for Sustainable Water Resources
 Earth's Critical Zone (CZ) is defined as the stretch from the tree to to the bottom of groundwater table. Vegetation and water forms the key components in the CZ, thus, highlighting their importance on the terrestrial ecosystem. This is particularly true when an agroecosystem is concerened which severly utilizes critical water resources for sustainable future. I primarily works on the CZ water and vegetation systems, assessing the associated stress and their land-atmosphere drivers. The key outcomes of my Ph.D. and Postdoctoral works are as follows: 
