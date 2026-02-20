@@ -3,16 +3,8 @@ title: "Research"
 layout: categories
 permalink: /research/
 author_profile: true
+classes: wide
 ---
-
-<div>
-Using drone thermal imagery, I monitor canopy temperature dynamics in almond
-and grapevine orchards. The objective is to detect stomatal regulation thresholds
-under rising atmospheric demand.
-
-The work integrates eddy covariance flux observations with plant hydraulic
-responses to understand ecosystem carbon stability during drought transitions.
-</div>
 
 ## Understanding Earth's Critical Zone for Sustainable Water Resources
 Earth's Critical Zone (CZ) is defined as the stretch from the tree to to the bottom of groundwater table. Vegetation and water forms the key components in the CZ, thus, highlighting their importance on the terrestrial ecosystem. This is particularly true when an agroecosystem is concerened which severly utilizes critical water resources for sustainable future. I primarily works on the CZ water and vegetation systems, assessing the associated stress and their land-atmosphere drivers. The key outcomes of my Ph.D. and Postdoctoral works are as follows: 
