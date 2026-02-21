@@ -6,7 +6,7 @@ sitemap: true
 classes: wide
 ---
 
-My research primarily inclined towards understanding the dynamics of water resources in Earth's Critical Zone (CZ), that stretch from the top of canopy to the bottom of groundwater table. I gained expertise in studying the surface and ground water level variability in an agroecosystem using multiple sources of Earth observations, and the source of observations encompasses from satellite observations to drone-based studies of Earth's hydrosphere. Considering the ground-based observations as a critical component of the remote sensing studies, a significant part of my reserach involves in-situ observations of land-atmosphere climatic variables that shaped agroecosystems.  
+My research primarily inclined towards understanding the dynamics of water resources in Earth's Critical Zone (CZ), that stretch from the top of canopy to the bottom of groundwater table. I gained expertise in studying the surface and ground water level variability in an agroecosystems using multiple sources of Earth observations (EO), and the source of EO encompasses from satellite to drone-based monitoring of Earth's hydrosphere. Considering the ground-based data as a critical component of remote sensing studies, a significant part of my reserach involves field observations of land-atmosphere climatic variables that shaped agroecosystems.
 
 ### Variability and Climatic Drivers of Plant Carbon Uptake over Woody Perrenial agroecosystem
 
