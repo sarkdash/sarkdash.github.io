@@ -1,10 +1,10 @@
 main:
-  - title: "Research"
+  - title: "Research Highlights"
     url: /research/
   - title: "Publications"
     url: /papers/
-  - title: "Resources"
-    url: /resources/
+#  - title: "Resources"
+#    url: /resources/
   - title: "Gallery"
     url: /gallery/ 
   - title: "About"
