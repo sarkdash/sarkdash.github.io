@@ -9,5 +9,7 @@ main:
     url: /gallery/ 
   - title: "About"
     url: /about/
+  - title: "Media Outcomes"
+    url: /Media/
   - title: "Contact"
     url: /contact/
