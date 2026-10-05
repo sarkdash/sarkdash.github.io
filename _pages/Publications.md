@@ -12,7 +12,7 @@ author_profile: true
 
 | Meena, A., Swarnkar, S., **Dash, S.K.** and Surjibhai, A.S., (2026). Linking compound dry-hot extremes to vegetation decline in Central India. Ecohydrology, 19(7), p.e70282. [Link](https://doi.org/10.1002/eco.70282){: .btn .btn--inverse} |
 
-| **Dash, S.K.**, Sembhi, H. and Sinha, R. (2025). Integrating UAV thermal imagery and in-situ data for high-resolution crop water stress–soil moisture dynamics over India’s agricultural hotspot. International Journal of Remote Sensing, 47(1), pp. 1–26. [Link](https://doi.org/10.1080/01431161.2025.2593684){: .btn .btn--inverse} |
+| **Dash, S.K.**, Sembhi, H. and Sinha, R. (2026). Integrating UAV thermal imagery and in-situ data for high-resolution crop water stress–soil moisture dynamics over India’s agricultural hotspot. International Journal of Remote Sensing, 47(1), pp. 1–26. [Link](https://doi.org/10.1080/01431161.2025.2593684){: .btn .btn--inverse} |
 
 | **Dash, S.K.**, Sembhi, H., Langsdale, M., Wooster, M., Dodd, E., Ghent, D. and Sinha, R. (2025). Assessing the field-scale crop water condition over an intensive agricultural plain using UAV-based thermal and multispectral imagery. Journal of Hydrology, 655, p.132966. [Link](https://doi.org/10.1016/j.jhydrol.2025.132966){: .btn .btn--inverse} |
 
