@@ -21,3 +21,30 @@ search: false
 /* Shrink hero/banner title on homepage */
 .page-title {font-size: 10px !important; /* adjust as needed */
 }
+
+
+/* Homepage hero styling */
+.page__hero--overlay {
+  min-height: 65vh;
+  display: flex;
+  align-items: center;
+  background-position: center;
+  background-size: cover;
+}
+
+.page__hero--overlay .page__title {
+  font-size: clamp(2.5rem, 5vw, 4.5rem);
+  line-height: 1.1;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+}
+
+.page__hero--overlay .page__lead {
+  font-size: clamp(1.1rem, 2vw, 1.6rem);
+  text-shadow: 0 1px 5px rgba(0, 0, 0, 0.5);
+}
+
+/* Remove the homepage author sidebar */
+.layout--splash .author__avatar,
+.layout--splash .author__content {
+  display: none;
+}
