@@ -1,50 +1,110 @@
+
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+# Only the main Sass file needs front matter
 search: false
 ---
 
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'contrast' }}"; // skin
-@import "minimal-mistakes"; // main partials
-/* Only for About page */
-.about-page {p {font-size: 18px;   /* normal text */}
-            h2 {font-size: 28px;   /* section headers */}
-            li {font-size: 18px;   /* bullet points */}
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'contrast' }}";
+@import "minimal-mistakes";
+
+/* About page */
+.about-page {
+  p { font-size: 18px; }
+  h2 { font-size: 28px; }
+  li { font-size: 18px; }
 }
 
-/* Underline h3 headings only on Gallery page */
-.page-gallery h3 {border-bottom: 2px solid #8B0000; /* underline */
-                  display: inline-block;         /* underline only as wide as text */  
+/* Gallery page */
+.page-gallery h3 {
+  border-bottom: 2px solid #8B0000;
+  display: inline-block;
 }
 
-/* Shrink hero/banner title on homepage */
-.page-title {font-size: 10px !important; /* adjust as needed */
-}
-
-
-/* Homepage hero styling */
-.page__hero--overlay {
+/* Homepage hero */
+.layout--splash .page__hero--overlay {
   min-height: 65vh;
   display: flex;
   align-items: center;
+  padding-top: 100px;
+  padding-bottom: 50px;
   background-position: center;
   background-size: cover;
 }
 
-.page__hero--overlay .page__title {
-  font-size: clamp(2.5rem, 5vw, 4.5rem);
-  line-height: 1.1;
-  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+.layout--splash .page__hero--overlay .wrapper {
+  max-width: 1100px;
 }
 
-.page__hero--overlay .page__lead {
+.layout--splash .page__hero--overlay .page__title {
+  font-size: clamp(2.3rem, 4.5vw, 4rem);
+  line-height: 1.12;
+  text-shadow: 0 3px 8px rgba(0, 0, 0, 0.45);
+}
+
+.layout--splash .page__hero--overlay .page__lead {
   font-size: clamp(1.1rem, 2vw, 1.6rem);
-  text-shadow: 0 1px 5px rgba(0, 0, 0, 0.5);
+  text-shadow: 0 2px 6px rgba(0, 0, 0, 0.45);
 }
 
-/* Remove the homepage author sidebar */
+/* Hide author profile elements on the splash homepage */
 .layout--splash .author__avatar,
 .layout--splash .author__content {
   display: none;
+}
+
+/* Floating translucent navbar */
+.masthead {
+  position: absolute;
+  top: 12px;
+  left: 0;
+  width: 100%;
+  z-index: 30;
+  background: transparent;
+  border: 0;
+}
+
+.masthead__inner-wrap {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0.4em 1.5em;
+  background: rgba(240, 246, 252, 0.88);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 28px;
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+}
+
+.greedy-nav {
+  background: transparent;
+}
+
+.greedy-nav a,
+.masthead__menu-item {
+  color: #26313d;
+}
+
+.greedy-nav .visible-links a:before {
+  background: #26313d;
+}
+
+/* Mobile adjustments */
+@media (max-width: 768px) {
+  .masthead {
+    top: 8px;
+  }
+
+  .masthead__inner-wrap {
+    margin: 0 12px;
+    padding: 0.35em 0.8em;
+    border-radius: 20px;
+  }
+
+  .layout--splash .page__hero--overlay {
+    min-height: 55vh;
+    padding-top: 85px;
+    padding-bottom: 35px;
+  }
 }
