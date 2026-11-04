@@ -8,6 +8,8 @@ author_profile: true
 
 ## Journals and Science Magazines
 
+| **Dash S. K.**, Pandey D. K., Sreelash K, Sinha R., Kuril S., Muddu S., Brocca L., Srivastava, P.K., Gupta P. K., Sharma R., John S. E. (2026). Multi-scale and multi-modal benchmarking of 22 global soil moisture products across India’s diverse climate zones using in-situ networks and extended triple collocation. Science of Remote Sensing, 14, p.100532. [Link](https://doi.org/10.1016/j.srs.2026.100532){: .btn .btn--inverse} |
+
 | Meena, A., Swarnkar, S., **Dash, S.K.** and Peepliwal, V. (2026). Nonlinear amplification of vegetation drought under compound dry–hot extremes across India. Ecological Indicators, 191, p.115617. [Link](https://doi.org/10.1016/j.ecolind.2026.115617){: .btn .btn--inverse} |
 
 | Meena, A., Swarnkar, S., **Dash, S.K.** and Surjibhai, A.S., (2026). Linking compound dry-hot extremes to vegetation decline in Central India. Ecohydrology, 19(7), p.e70282. [Link](https://doi.org/10.1002/eco.70282){: .btn .btn--inverse} |
@@ -26,13 +28,15 @@ author_profile: true
 
 ## Manuscript(s) in Communication
 
-| **Dash S. K.**, Pandey D. K., Sreelash K, Sinha R., Kuril S., Muddu S., Brocca L., Gupta P. K., Sharma R., John S. E., “Multi-scale and multi-modal benchmarking of 22 global soil moisture products across India’s diverse climate zones using in-situ networks and extended triple collocation” (*Under revision in Science of Remote Sensing*) |
-
 |	Sreelash K, Pradhan R. M., Raj Vipin T., Sreelesh R, Aswathi V.K., Mathew M., Gayathri J.A., Mohanty S., **Dash S. K.**, Dutta M. K., Asha Rani G.V., Abina Angel S. J., Josna Raj P., Soorya Mol B., Maya K., Padmalal D., “TERRAIn: A multi-Scale terrestrial observatory network for investigating tropical critical zone processes in peninsular India” (*Under revision in Hydrological Processes*) |
 
 |	Meza K., Bambach N., Knipper K., Torres-Rua A., **Dash S. K.**, Castro S. J, McElrone A. J., Kustas W. P., “Estimating Dual Crop Coefficients in Almond Orchards Using Eddy Covariance Evapotranspiration Partitioning and Plant Water Stress Metrics” (*Under review in Agricultural Water Management*) |
 
-|	Aswathi V K, Sreelash K., Jose K S., Shaju S., **Dash S. K.**, Pandey D. K., Muddu S., “A Multi-Predictor Framework Integrating SAR and LST for Downscaling SMAP Soil Moisture in a Topographically Complex Region” (*Submitted to International Journal of Applied Earth Observation and Geoinformation*) |
+|	Aswathi V K, Sreelash K., Jose K S., Shaju S., **Dash S. K.**, Pandey D. K., Muddu S., “A Multi-Predictor Framework Integrating SAR and LST for Downscaling SMAP Soil Moisture in a Topographically Complex Region” (*Submitted in International Journal of Applied Earth Observation and Geoinformation*) |
+
+|	Peepliwal V., Swarnkar S., **Dash S.K.**, “From Total Water-Storage Deficits to Vegetation Drought: Structural and Functional Responses across India” (*Submitted in Ecological Indicators*) |
+
+|	Sreelash K., Pradhan R. M., Raj V. T, **Dash S. K.**, Kuril S., Kumar A., Prasad R. K., Sinha R., Muddu S., Pujari P., Dhyani S., Jain V., Singh V., Padmalal D., “Critical Zone Research in India: Current Status, Challenges, and Future Directions in a Changing Environment” (*Submitted in Quaternary International*) |
 
 |	**Dash, S.K.**, Bambach N. E., Knipper K., McElrone A., Capcha K. M., Kustas W. P., Andrew G., Castro S., Tolentino P., “Meteorological variables outweigh soil moisture in driving gross primary productivity over Mediterranean woody orchards” (*In-line for submission*) |
 
