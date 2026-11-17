@@ -1,7 +1,7 @@
 ---
-permalink: /about/
+permalink: /Home/
 title: ""
-classes: wide about-page
+classes: wide Home-page
 layout: single
 sitemap: true
 author_profile: true
