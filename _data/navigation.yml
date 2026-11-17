@@ -1,7 +1,7 @@
 main:
   - title: "Home"
     url: /Home/
-  - title: "Research Highlights"
+  - title: "Research"
     url: /research/
   - title: "Publications"
     url: /papers/
@@ -9,7 +9,7 @@ main:
 #    url: /resources/
   - title: "Gallery"
     url: /gallery/ 
-  - title: "About"
-    url: /about/
+#  - title: "About"
+#    url: /about/
   - title: "Contact"
     url: /contact/
